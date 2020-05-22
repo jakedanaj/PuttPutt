@@ -3,13 +3,15 @@
 
 ## Naming Convention
 All files should be created with a prefix:
-- Object -> ojb_
+- Object -> obj_
 - Image -> img_
 - Room -> rm_
 - Sprite -> spr_
 
 ## TODO
 Basic Functionality:
+- [x] Pull-back power with mouse
+- [x] Collision with walls
 - [ ] Collision with angles
 - [ ] Timer and stroke counter
 - [ ] Visible power meter
